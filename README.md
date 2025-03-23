@@ -70,7 +70,7 @@ I am a **Data Analyst** 📊 & **Graphic Designer** 🎨, seamlessly blending **
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="400">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRqaDBjOWFtdTNpNzd6Nzc0emczcWI2NmhmNzQxajVnaWp5b2J5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cvMrULqv6se4M/giphy.gif" width="400">
 </p>
 
 ## 📫 Connect With Me  
