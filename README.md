@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Nahyan Masood 👋</h1>
 <p align="center">
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" height="250">
 </p>
@@ -10,8 +10,8 @@
 I am a **Data Analyst** 📊 & **Graphic Designer** 🎨, seamlessly blending **creativity with data-driven insights**. I specialize in turning raw data into meaningful stories and crafting visually compelling designs that captivate audiences.  
 
 💼 **Freelance Platforms:** Fiverr & Upwork  
-📍 **Location:** [Your Location]  
-✉ **Contact:** [Your Email]  
+📍 **Location:** Karachi,Pakistan
+✉ **Contact:** masoodnahyan@gmal.com 
 🌍 **Portfolio:** [Your Portfolio Link]
 
 ---
