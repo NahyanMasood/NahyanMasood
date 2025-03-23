@@ -1,31 +1,87 @@
-<h1 align="center">Hi 👋, I'm Nahyan Masood</h1>
-<h3 align="center">A passionate Data Analyst and Graphic Designer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahyanmasood&label=Profile%20views&color=0e75b6&style=flat" alt="nahyanmasood" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nahyanmasood" alt="nahyanmasood" /></a> </p>
-
-- 🔭 I’m currently working on **Freelance projects**
-
-- 🌱 I’m currently learning **Data Science , AI, Machine learning**
-
-- 👯 I’m looking to collaborate on **Data analysis & design**
-
-- 🤝 I’m looking for help with **Advanced data analytics**
-
-- 💬 Ask me about **Data analysis & Graphic designing**
-
-- 📫 How to reach me **masoodnahyan@gmail.com**
-
-- ⚡ Fun fact **I blend data with design!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" height="250">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nahyanmasood&show_icons=true&locale=en&layout=compact" alt="nahyanmasood" /></p>
+## 🚀 About Me  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nahyanmasood&show_icons=true&locale=en" alt="nahyanmasood" /></p>
+I am a **Data Analyst** 📊 & **Graphic Designer** 🎨, seamlessly blending **creativity with data-driven insights**. I specialize in turning raw data into meaningful stories and crafting visually compelling designs that captivate audiences.  
+
+💼 **Freelance Platforms:** Fiverr & Upwork  
+📍 **Location:** [Your Location]  
+✉ **Contact:** [Your Email]  
+🌍 **Portfolio:** [Your Portfolio Link]
+
+---
+
+## 🛠️ Tech & Skills  
+
+### 🎨 Graphic Design:
+- **Adobe Photoshop** 🖌️
+- **Canva Pro** 🎭
+- **CapCut & Premiere Pro** 🎬
+
+### 📊 Data Analytics:
+- **Python** 🐍 (Pandas, NumPy, Matplotlib, Seaborn)
+- **SQL (MySQL)** 💾
+- **Excel (Advanced Functions, Pivot Tables, Power Query)** 📑
+- **Data Visualization** 📈 (Tableau, Power BI)
+
+### 💻 Development:
+- **C++** 🚀
+- **Front-End Development (HTML, CSS, JavaScript)** 🌐
+
+---
+
+## 🔥 My GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="48%" alt="GitHub Streak">
+</p>
+
+---
+
+## 👯 I’m Looking to Collaborate On  
+- Data Science & Analytics Projects 📊
+- Creative Design Projects 🎨
+
+## 🤝 I’m Looking for Help With  
+- Advanced Data Analytics 🔍
+
+## 🌱 I’m Currently Learning  
+- **Data Science & Machine Learning** 🤖
+
+## 💬 Ask Me About  
+- Data Analysis 📊
+- Graphic Design 🎨
+- Freelancing 🚀
+
+## ⚡ Fun Fact  
+- *I blend data with design!* 🔥
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/j2pWZpr5RlpCodOB0d/giphy.gif" width="400">
+</p>
+
+## 📫 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.fiverr.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr">
+  </a>
+  <a href="https://www.upwork.com/freelancers/~your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+  </a>
+</p>
+
+---
+
+⭐️ *Feel free to connect and collaborate!* 🚀
