@@ -21,17 +21,22 @@ I am a **Data Analyst** 📊 & **Graphic Designer** 🎨, seamlessly blending **
 ### 🎨 Graphic Design:
 - **Adobe Photoshop** 🖌️
 - **Canva Pro** 🎭
-- **CapCut & Premiere Pro** 🎬
+  
+### 🖥️ Programming Languages:
+- **C++** 🚀
+- **Python** 🐍
 
 ### 📊 Data Analytics:
-- **Python** 🐍 (Pandas, NumPy, Matplotlib, Seaborn)
+- **Python** 🐍 (Matplotlib)
 - **SQL (MySQL)** 💾
 - **Excel (Advanced Functions, Pivot Tables, Power Query)** 📑
 - **Data Visualization** 📈 (Tableau, Power BI)
 
 ### 💻 Development:
-- **C++** 🚀
 - **Front-End Development (HTML, CSS, JavaScript)** 🌐
+
+  
+
 
 ---
 
