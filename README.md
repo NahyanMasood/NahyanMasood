@@ -11,7 +11,7 @@ I am a **Data Analyst** 📊 & **Graphic Designer** 🎨, seamlessly blending **
 
 💼 **Freelance Platforms:** Fiverr & Upwork  
 📍 **Location:** Karachi,Pakistan
-✉ **Contact:** masoodnahyan@gmal.com 
+✉ **Contact:** masoodnahyan@gmail.com 
 🌍 **Portfolio:** [Your Portfolio Link]
 
 ---
