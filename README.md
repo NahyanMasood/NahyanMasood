@@ -43,8 +43,8 @@ I am a **Data Analyst** 📊 & **Graphic Designer** 🎨, seamlessly blending **
 ## 🔥 My GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="48%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=NahyanMasood&show_icons=true&theme=radical" width="48%" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NahyanMasood&theme=radical" width="48%" alt="GitHub Streak">
 </p>
 
 ---
